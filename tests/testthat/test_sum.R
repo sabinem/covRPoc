@@ -1,3 +1,3 @@
 test_that("addition works", {
-  expect_equal(sum(5, 7), 12)
+  expect_equal(my_sum(5, 7), 12)
 })

@@ -13,7 +13,7 @@
 #   Check Package:             'Cmd + Shift + E'
 #   Test Package:              'Cmd + Shift + T'
 
-add <- function(a, b) {
+my_sum <- function(a, b) {
   sum <- a + b
   return(sum)
 }
