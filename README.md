@@ -2,7 +2,7 @@
 # covRPoc
 
 <!-- badges: start -->
-[![Coverage Status](https://img.shields.io/codecov/c/github/erzk/PostcodesioR/master.svg)](https://codecov.io/github/erzk/PostcodesioR?branch=master)
++ [![cov](https://sabinem.github.io/covRPoc/badges/coverage.svg)](https://github.com/sabinem/covRPoc/actions)
 <!-- badges: end -->
 
 The goal of covRPoc is to ...
