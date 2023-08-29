@@ -2,7 +2,7 @@
 # covRPoc
 
 <!-- badges: start -->
-+ [![cov](https://sabinem.github.io/covRPoc/badges/coverage.svg)](https://github.com/sabinem/covRPoc/actions)
+[![Codecov test coverage](https://codecov.io/gh/sabinem/covRPoc/branch/main/graph/badge.svg)](https://app.codecov.io/gh/sabinem/covRPoc?branch=main)
 <!-- badges: end -->
 
 The goal of covRPoc is to ...
